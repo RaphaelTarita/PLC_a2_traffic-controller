@@ -1,3 +1,3 @@
-public interface Vehicle {	
-	int getId();
+public interface Vehicle {
+    int getId();
 }
